@@ -1,0 +1,8 @@
+# Ignore all .js files
+*.js
+
+# Ignore all .d.ts files
+*.d.ts
+
+# Ignore all .js.map files
+*.js.map
